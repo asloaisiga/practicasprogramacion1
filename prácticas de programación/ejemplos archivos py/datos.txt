@@ -1,0 +1,6 @@
+Primera linea  
+Tercera linea  
+Primera linea  
+Tercera linea  
+Cuarta linea  
+Fin del archivo 
