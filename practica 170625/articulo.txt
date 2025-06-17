@@ -1,0 +1,3 @@
+Este es un artículo de ejemplo.
+Contiene varias líneas de texto.
+Puedes buscar palabras específicas en él.
