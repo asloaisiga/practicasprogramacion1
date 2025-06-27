@@ -1,3 +1,0 @@
-admin,admin123
-juan,clave456
-alexa,id123
